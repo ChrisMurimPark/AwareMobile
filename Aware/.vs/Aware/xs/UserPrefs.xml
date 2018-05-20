@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{69281B8B-B5E8-4517-BB83-63EE3A0BB49D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Aware/Views/MainPage.xaml">
+    <Files>
+      <File FileName="Aware/Views/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Aware/Views/MainPage.xaml" Line="25" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aware" expanded="True">
+            <Node name="Aware" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Aware" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Aware" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Aware.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aware.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Aware FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Aware.iOS FirstBuild="True" />
+</Properties>
